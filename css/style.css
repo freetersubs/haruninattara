@@ -152,8 +152,8 @@ body {
   .hero {
     background: linear-gradient(
       0deg,
-      rgba(31, 162, 190, 0.3),
-      rgba(31, 162, 190, 0.1)
+      rgba(0, 0, 0, 0.8),
+      rgba(31, 162, 190, 0.4)
     );
   }
 
